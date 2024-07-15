@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theguffs_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=theguffs&style=flat-square)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=theguffs&style=flat-square)
 <!---
